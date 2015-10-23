@@ -9,6 +9,7 @@ class Person {
 
     add(){
         return this.x + this.y;
+
     }
 }
 

@@ -6,6 +6,7 @@ class Student extends Person {
         console.log('executing super from Student');
         super();
 
+
     }
 }
 

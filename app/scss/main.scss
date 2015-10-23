@@ -1,0 +1,13 @@
+@import "variables";
+@import "first";
+@import 'section-a';
+
+
+body {
+  background-color: $bg-color;
+  color:$font-color;
+}
+
+hr {
+  border-color:$font-color;
+}
